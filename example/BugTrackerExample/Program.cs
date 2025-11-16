@@ -13,6 +13,9 @@ namespace BugTrackerExample
             bug.Assign("Harry");
             bug.Assign("Fred");
             bug.Close();
+              bug.Assign("Harry");
+            bug.Assign("Fred");
+            bug.Close();
 
             Console.WriteLine();
             Console.WriteLine("State machine:");
