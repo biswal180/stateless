@@ -18,6 +18,8 @@ namespace OnOffExample
         static void Main(string[] args)
         {
             const string on = "On";
+
+            //tses
             const string off = "Off";
             const char space = ' ';
 
